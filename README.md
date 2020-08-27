@@ -17,3 +17,4 @@ Live url : (https://packagist.org/packages/sudip/contact)
 1. Run `php artisan vendor:publish`
 2. Select the option which depicts `Provider:Sudip\Contact\ContactServiceProvider`
 3. Hence files can be edited in `resources/views/vendor/contact`
+4. Sender email can be modified in `config/contact.php`
