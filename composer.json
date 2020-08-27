@@ -1,0 +1,19 @@
+{
+    "name": "sudip/contact",
+    "description": "A contact form to send email to admin and store the query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sudip Kumar Singh",
+            "email": "sudipsingh04@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sudip\\Contact\\": "src/"
+        }
+    }
+}
